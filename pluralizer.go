@@ -1,4 +1,4 @@
-package pluralize
+package pluralizer
 
 import (
 	"strings"
